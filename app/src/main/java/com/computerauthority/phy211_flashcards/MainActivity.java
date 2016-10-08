@@ -28,7 +28,6 @@ public class MainActivity extends AppCompatActivity {
     private Button tx;
     private Button left;
     private Button right;
-    private SensorEventListener m_sensorEventListener;
 
     @Override
 
