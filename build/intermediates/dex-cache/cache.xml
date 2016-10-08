@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/Desktop/PHY211-FlashCards/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ab23a15641dbf02279a5153ffb3ccdc8e1846853">
+        <dex dex="/Users/user/Desktop/PHY211-FlashCards/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5e6737c088fb39ec810e68208d2c587125a5be95/classes.dex" />
+    </item>
+
+</items>
